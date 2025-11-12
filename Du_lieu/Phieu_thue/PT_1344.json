@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1344",
+  "So_phong": "B-401",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-09-11",
+  "Ngay_tra": "2025-09-14",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Bùi Hữu Sơn",
+      "CCCD": "030500988931",
+      "Dien_thoai": "0223250903"
+    },
+    {
+      "Ho_ten": "Vũ Hữu Hải",
+      "CCCD": "030666405266",
+      "Dien_thoai": "0452649947"
+    }
+  ]
+}

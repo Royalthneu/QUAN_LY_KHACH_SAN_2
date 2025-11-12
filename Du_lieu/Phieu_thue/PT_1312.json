@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1312",
+  "So_phong": "B-407",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-15",
+  "Ngay_tra": "2025-08-16",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Vũ Gia Trung",
+      "CCCD": "031885974801",
+      "Dien_thoai": "0964492748"
+    },
+    {
+      "Ho_ten": "Hoàng Đức Linh",
+      "CCCD": "030245567060",
+      "Dien_thoai": "0045746307"
+    },
+    {
+      "Ho_ten": "Trần Minh Quân",
+      "CCCD": "031190998148",
+      "Dien_thoai": "0496127181"
+    }
+  ]
+}

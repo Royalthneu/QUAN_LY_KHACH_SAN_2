@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1059",
+  "So_phong": "B-301",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-02-20",
+  "Ngay_tra": "2025-02-22",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Văn Bình",
+      "CCCD": "031158460048",
+      "Dien_thoai": "0948875028"
+    },
+    {
+      "Ho_ten": "Nguyễn Thị Linh",
+      "CCCD": "030626042891",
+      "Dien_thoai": "0956009996"
+    }
+  ]
+}

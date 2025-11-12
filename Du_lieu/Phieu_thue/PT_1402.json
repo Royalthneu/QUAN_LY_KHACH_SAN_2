@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1402",
+  "So_phong": "B-107",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-11-07",
+  "Ngay_tra": "2025-11-10",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Hữu Nga",
+      "CCCD": "030422375547",
+      "Dien_thoai": "0052284778"
+    },
+    {
+      "Ho_ten": "Hoàng Thành Dũng",
+      "CCCD": "031471073913",
+      "Dien_thoai": "0432562382"
+    },
+    {
+      "Ho_ten": "Võ Thành Hạnh",
+      "CCCD": "031695708481",
+      "Dien_thoai": "0100596157"
+    }
+  ]
+}

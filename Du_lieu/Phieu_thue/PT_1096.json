@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1096",
+  "So_phong": "C-208",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-01-28",
+  "Ngay_tra": "2025-01-31",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Quốc Sơn",
+      "CCCD": "030355295670",
+      "Dien_thoai": "0958515797"
+    },
+    {
+      "Ho_ten": "Phan Hữu Dũng",
+      "CCCD": "031435269028",
+      "Dien_thoai": "0972899028"
+    },
+    {
+      "Ho_ten": "Huỳnh Hải Ngọc",
+      "CCCD": "030893384751",
+      "Dien_thoai": "0970444314"
+    }
+  ]
+}

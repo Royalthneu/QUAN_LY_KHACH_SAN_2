@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1028",
+  "So_phong": "A-210",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-01-20",
+  "Ngay_tra": "2025-01-23",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Đức Dũng",
+      "CCCD": "030363230491",
+      "Dien_thoai": "0935585379"
+    },
+    {
+      "Ho_ten": "Võ Thị Tuấn",
+      "CCCD": "030534958299",
+      "Dien_thoai": "0938887666"
+    },
+    {
+      "Ho_ten": "Võ Hữu Vy",
+      "CCCD": "030336695231",
+      "Dien_thoai": "0923746351"
+    },
+    {
+      "Ho_ten": "Huỳnh Hải Ngọc",
+      "CCCD": "031464960473",
+      "Dien_thoai": "0926283518"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1333",
+  "So_phong": "A-308",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-05",
+  "Ngay_tra": "2025-08-08",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Thị Phong",
+      "CCCD": "030398046630",
+      "Dien_thoai": "0272051628"
+    },
+    {
+      "Ho_ten": "Võ Gia Long",
+      "CCCD": "030388741644",
+      "Dien_thoai": "0838371272"
+    },
+    {
+      "Ho_ten": "Lê Thị Tuấn",
+      "CCCD": "030598999133",
+      "Dien_thoai": "0134270732"
+    }
+  ]
+}

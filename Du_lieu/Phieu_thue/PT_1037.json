@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1037",
+  "So_phong": "A-309",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-01-29",
+  "Ngay_tra": "2025-01-31",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Văn Ngọc",
+      "CCCD": "031478337455",
+      "Dien_thoai": "0931396582"
+    },
+    {
+      "Ho_ten": "Nguyễn Thuỳ Giang",
+      "CCCD": "030765611226",
+      "Dien_thoai": "0924864053"
+    },
+    {
+      "Ho_ten": "Đặng Quốc Sơn",
+      "CCCD": "031969217011",
+      "Dien_thoai": "0974496119"
+    },
+    {
+      "Ho_ten": "Huỳnh Quốc Quân",
+      "CCCD": "030531404189",
+      "Dien_thoai": "0992946972"
+    }
+  ]
+}

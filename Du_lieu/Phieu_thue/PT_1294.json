@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1294",
+  "So_phong": "B-106",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-07-11",
+  "Ngay_tra": "2025-07-12",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Võ Thanh Phong",
+      "CCCD": "030207027103",
+      "Dien_thoai": "0185971413"
+    },
+    {
+      "Ho_ten": "Nguyễn Văn Quân",
+      "CCCD": "031319540700",
+      "Dien_thoai": "0361019938"
+    },
+    {
+      "Ho_ten": "Bùi Thành Nga",
+      "CCCD": "031573222661",
+      "Dien_thoai": "0924045212"
+    }
+  ]
+}

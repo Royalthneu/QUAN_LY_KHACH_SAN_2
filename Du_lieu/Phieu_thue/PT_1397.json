@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1397",
+  "So_phong": "B-210",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-10-09",
+  "Ngay_tra": "2025-10-11",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Thành Bình",
+      "CCCD": "030595726976",
+      "Dien_thoai": "0954156222"
+    },
+    {
+      "Ho_ten": "Võ Ngọc Phúc",
+      "CCCD": "031499829277",
+      "Dien_thoai": "0382786499"
+    },
+    {
+      "Ho_ten": "Phạm Hữu Sơn",
+      "CCCD": "030785070649",
+      "Dien_thoai": "0552376634"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1131",
+  "So_phong": "C-209",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-02-28",
+  "Ngay_tra": "2025-03-04",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Trần Gia My",
+      "CCCD": "030119869619",
+      "Dien_thoai": "0937527841"
+    },
+    {
+      "Ho_ten": "Nguyễn Thành Thảo",
+      "CCCD": "031869062754",
+      "Dien_thoai": "0880524427"
+    },
+    {
+      "Ho_ten": "Phan Quang Quang",
+      "CCCD": "030519610636",
+      "Dien_thoai": "0880927533"
+    },
+    {
+      "Ho_ten": "Trần Quang Sơn",
+      "CCCD": "030797440723",
+      "Dien_thoai": "0600841515"
+    }
+  ]
+}

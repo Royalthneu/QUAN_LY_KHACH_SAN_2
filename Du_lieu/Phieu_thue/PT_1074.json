@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1074",
+  "So_phong": "B-406",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-01-06",
+  "Ngay_tra": "2025-01-08",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Huỳnh Đức Minh",
+      "CCCD": "030730448476",
+      "Dien_thoai": "0924009381"
+    },
+    {
+      "Ho_ten": "Hoàng Thanh Sơn",
+      "CCCD": "031123832778",
+      "Dien_thoai": "0942019172"
+    },
+    {
+      "Ho_ten": "Đặng Thuỳ Huy",
+      "CCCD": "030608908767",
+      "Dien_thoai": "0924790051"
+    }
+  ]
+}

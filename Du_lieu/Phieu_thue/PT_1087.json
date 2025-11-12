@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1087",
+  "So_phong": "C-109",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-01-19",
+  "Ngay_tra": "2025-01-23",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Hoàng Thị An",
+      "CCCD": "030949192987",
+      "Dien_thoai": "0923603733"
+    },
+    {
+      "Ho_ten": "Nguyễn Thanh Thảo",
+      "CCCD": "030568366299",
+      "Dien_thoai": "0982038288"
+    },
+    {
+      "Ho_ten": "Nguyễn Thị Hà",
+      "CCCD": "030131685409",
+      "Dien_thoai": "0950452904"
+    }
+  ]
+}

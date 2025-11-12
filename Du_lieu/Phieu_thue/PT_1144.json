@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1144",
+  "So_phong": "B-206",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-02-13",
+  "Ngay_tra": "2025-02-14",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Bùi Gia Thu",
+      "CCCD": "031668841818",
+      "Dien_thoai": "0989269574"
+    },
+    {
+      "Ho_ten": "Đặng Ngọc Thịnh",
+      "CCCD": "031653299802",
+      "Dien_thoai": "0455675104"
+    },
+    {
+      "Ho_ten": "Lê Ngọc Nhi",
+      "CCCD": "031427610822",
+      "Dien_thoai": "0762848958"
+    }
+  ]
+}

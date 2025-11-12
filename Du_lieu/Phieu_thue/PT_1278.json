@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1278",
+  "So_phong": "C-402",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-06-07",
+  "Ngay_tra": "2025-06-10",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Minh Lan",
+      "CCCD": "030873948713",
+      "Dien_thoai": "0217389382"
+    },
+    {
+      "Ho_ten": "Lê Đức Sơn",
+      "CCCD": "031824906884",
+      "Dien_thoai": "0250760040"
+    }
+  ]
+}

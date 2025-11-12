@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1276",
+  "So_phong": "B-405",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-06-01",
+  "Ngay_tra": "2025-06-04",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Hoàng Hữu Nga",
+      "CCCD": "030579241953",
+      "Dien_thoai": "0101209578"
+    },
+    {
+      "Ho_ten": "Lê Văn Hân",
+      "CCCD": "030775949699",
+      "Dien_thoai": "0538288288"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1221",
+  "So_phong": "C-506",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-05-27",
+  "Ngay_tra": "2025-05-30",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Văn Phúc",
+      "CCCD": "031852012342",
+      "Dien_thoai": "0556740244"
+    },
+    {
+      "Ho_ten": "Đặng Ngọc Giang",
+      "CCCD": "031525765134",
+      "Dien_thoai": "0815464731"
+    },
+    {
+      "Ho_ten": "Võ Văn Quân",
+      "CCCD": "030965220836",
+      "Dien_thoai": "0021560581"
+    }
+  ]
+}

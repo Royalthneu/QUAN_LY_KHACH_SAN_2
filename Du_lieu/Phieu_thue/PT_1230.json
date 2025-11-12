@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1230",
+  "So_phong": "A-302",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-05-26",
+  "Ngay_tra": "2025-05-29",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Hoàng Ngọc Nhi",
+      "CCCD": "030531955369",
+      "Dien_thoai": "0513392246"
+    },
+    {
+      "Ho_ten": "Phạm Gia Bình",
+      "CCCD": "030189958247",
+      "Dien_thoai": "0728122167"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1408",
+  "So_phong": "C-203",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-11-10",
+  "Ngay_tra": "2025-11-11",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Hữu Thắng",
+      "CCCD": "030836742182",
+      "Dien_thoai": "0363462355"
+    },
+    {
+      "Ho_ten": "Lê Quang Nhân",
+      "CCCD": "030111936438",
+      "Dien_thoai": "0631714708"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1414",
+  "So_phong": "C-205",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-11-11",
+  "Ngay_tra": "2025-11-15",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Võ Gia Thịnh",
+      "CCCD": "030938476051",
+      "Dien_thoai": "0484244229"
+    },
+    {
+      "Ho_ten": "Đặng Minh Thảo",
+      "CCCD": "031152912209",
+      "Dien_thoai": "0727549866"
+    }
+  ]
+}

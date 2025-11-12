@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1332",
+  "So_phong": "C-110",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-08-27",
+  "Ngay_tra": "2025-08-28",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Minh Dũng",
+      "CCCD": "030652567296",
+      "Dien_thoai": "0732209853"
+    },
+    {
+      "Ho_ten": "Đặng Minh Trung",
+      "CCCD": "031546765551",
+      "Dien_thoai": "0815059349"
+    },
+    {
+      "Ho_ten": "Trần Thanh Minh",
+      "CCCD": "030031475133",
+      "Dien_thoai": "0630728583"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1200",
+  "So_phong": "C-509",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-04-04",
+  "Ngay_tra": "2025-04-07",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Thanh Hùng",
+      "CCCD": "031035040832",
+      "Dien_thoai": "0952640163"
+    },
+    {
+      "Ho_ten": "Phạm Minh Vy",
+      "CCCD": "031613397172",
+      "Dien_thoai": "0569235214"
+    },
+    {
+      "Ho_ten": "Trần Thị Dũng",
+      "CCCD": "031144694446",
+      "Dien_thoai": "0897428947"
+    }
+  ]
+}

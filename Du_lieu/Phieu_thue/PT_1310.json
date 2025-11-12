@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1310",
+  "So_phong": "C-210",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-08-23",
+  "Ngay_tra": "2025-08-25",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Gia Trang",
+      "CCCD": "030532267122",
+      "Dien_thoai": "0446023740"
+    },
+    {
+      "Ho_ten": "Đặng Gia Lan",
+      "CCCD": "031352652877",
+      "Dien_thoai": "0378504768"
+    }
+  ]
+}

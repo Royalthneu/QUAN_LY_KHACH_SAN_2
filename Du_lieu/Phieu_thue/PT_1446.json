@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1446",
+  "So_phong": "C-109",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-12-08",
+  "Ngay_tra": "2025-12-11",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Bùi Thanh Trí",
+      "CCCD": "031869522106",
+      "Dien_thoai": "0101747847"
+    },
+    {
+      "Ho_ten": "Võ Quang Ngân",
+      "CCCD": "030839670146",
+      "Dien_thoai": "0919133419"
+    },
+    {
+      "Ho_ten": "Phạm Thanh Hải",
+      "CCCD": "030122524426",
+      "Dien_thoai": "0636693450"
+    }
+  ]
+}

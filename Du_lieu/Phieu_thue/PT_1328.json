@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1328",
+  "So_phong": "A-306",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-23",
+  "Ngay_tra": "2025-08-26",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Trần Gia Thu",
+      "CCCD": "031553937755",
+      "Dien_thoai": "0604976535"
+    },
+    {
+      "Ho_ten": "Phạm Quang Khánh",
+      "CCCD": "031086612859",
+      "Dien_thoai": "0845100871"
+    },
+    {
+      "Ho_ten": "Vũ Hữu Minh",
+      "CCCD": "030869833881",
+      "Dien_thoai": "0166188294"
+    }
+  ]
+}

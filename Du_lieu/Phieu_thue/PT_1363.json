@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1363",
+  "So_phong": "B-306",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-09-20",
+  "Ngay_tra": "2025-09-21",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Đức Thắng",
+      "CCCD": "030887293258",
+      "Dien_thoai": "0832284877"
+    },
+    {
+      "Ho_ten": "Bùi Thị Vân",
+      "CCCD": "031029301188",
+      "Dien_thoai": "0297625503"
+    },
+    {
+      "Ho_ten": "Lê Đức Nam",
+      "CCCD": "030588726159",
+      "Dien_thoai": "0402947922"
+    }
+  ]
+}

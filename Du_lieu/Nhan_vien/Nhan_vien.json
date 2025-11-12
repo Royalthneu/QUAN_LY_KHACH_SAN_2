@@ -1,0 +1,196 @@
+[
+  {
+    "Ho_ten": "Bùi Tố An",
+    "Ma_so": "TT_1",
+    "Gioi_tinh": "Nữ",
+    "CMND": "031xxxx001",
+    "Ngay_sinh": "1999-01-10",
+    "Dien_thoai": "0901xxxx01",
+    "Mail": "tiep.tanA@ksx.vn",
+    "Ten_Dang_nhap": "tieptanA1",
+    "Mat_khau": "tieptanA1",
+    "Bo_phan": {
+      "Ten": "Tiếp tân Khu vực A",
+      "Ma_so": "TT_A"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực A",
+      "Ma_so": "KV_1"
+    }
+  },
+  {
+    "Ho_ten": "Lê Thị Ánh",
+    "Ma_so": "TT_2",
+    "Gioi_tinh": "Nam",
+    "CMND": "079xxxx102",
+    "Ngay_sinh": "1992-06-02",
+    "Dien_thoai": "0912xxxx02",
+    "Mail": "tiep.tanA2@ksx.vn",
+    "Ten_Dang_nhap": "tieptanA2",
+    "Mat_khau": "tieptanA2",
+    "Bo_phan": {
+      "Ten": "Tiếp tân",
+      "Ma_so": "TT_A"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực A",
+      "Ma_so": "KV_1"
+    }
+  },
+  {
+    "Ho_ten": "Hoàng Văn Biên",
+    "Ma_so": "TT_3",
+    "Gioi_tinh": "Nam",
+    "CMND": "079xxxx101",
+    "Ngay_sinh": "1991-06-01",
+    "Dien_thoai": "0911xxxx01",
+    "Mail": "tiep.tanB1@ksx.vn",
+    "Ten_Dang_nhap": "tieptanB1",
+    "Mat_khau": "tieptanB1",
+    "Bo_phan": {
+      "Ten": "Tiếp tân Khu vực B",
+      "Ma_so": "TT_B"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực B",
+      "Ma_so": "KV_2"
+    }
+  },
+  {
+    "Ho_ten": "Lê Thị Biển",
+    "Ma_so": "TT_4",
+    "Gioi_tinh": "Nữ",
+    "CMND": "079xxxx102",
+    "Ngay_sinh": "1992-06-02",
+    "Dien_thoai": "0912xxxx02",
+    "Mail": "tiep.tanB2@ksx.vn",
+    "Ten_Dang_nhap": "tieptanB2",
+    "Mat_khau": "tieptanB2",
+    "Bo_phan": {
+      "Ten": "Tiếp tân Khu vực B",
+      "Ma_so": "TT_B"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực B",
+      "Ma_so": "KV_2"
+    }
+  },
+  {
+    "Ho_ten": "Hoàng Văn Biên",
+    "Ma_so": "TT_5",
+    "Gioi_tinh": "Nam",
+    "CMND": "030098006015",
+    "Ngay_sinh": "1998-06-15",
+    "Dien_thoai": "0903434160",
+    "Mail": "tiep.tanC1@ksx.vn",
+    "Ten_Dang_nhap": "tieptanC1",
+    "Mat_khau": "tieptanC1",
+    "Bo_phan": {
+      "Ten": "Tiếp tân Khu vực C",
+      "Ma_so": "TT_C"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực C",
+      "Ma_so": "KV_3"
+    }
+  },
+  {
+    "Ho_ten": "Lê Thị Biển",
+    "Ma_so": "TT_6",
+    "Gioi_tinh": "Nữ",
+    "CMND": "079xxxx102",
+    "Ngay_sinh": "1992-06-02",
+    "Dien_thoai": "0912xxxx02",
+    "Mail": "tiep.tanC2@ksx.vn",
+    "Ten_Dang_nhap": "tieptanC2",
+    "Mat_khau": "tieptanC2",
+    "Bo_phan": {
+      "Ten": "Tiếp tân Khu vực C",
+      "Ma_so": "TT_C"
+    },
+    "Khu_vuc": {
+      "Ten": "Khu vực C",
+      "Ma_so": "KV_3"
+    }
+  },
+  {
+    "Ma_so": "BGD_1",
+    "Ho_ten": "Bùi Gian Đen",
+    "Gioi_tinh": "Nam",
+    "CMND": "079xxxx016",
+    "Ngay_sinh": "1980-02-21",
+    "Dien_thoai": "0904xxxx11",
+    "Mail": "ql.2@ksx.vn",
+    "Ten_Dang_nhap": "bgd1",
+    "Mat_khau": "bgd1",
+    "Bo_phan": {
+      "Ten": "Ban Giám đốc",
+      "Ma_so": "BGD"
+    },
+    "Khu_vuc": null
+  },
+  {
+    "Ma_so": "BGD_2",
+    "Ho_ten": "Bùi Gian Đỏ",
+    "Gioi_tinh": "Nam",
+    "CMND": "079xxxx011",
+    "Ngay_sinh": "1982-01-12",
+    "Dien_thoai": "0902xxxx11",
+    "Mail": "ql.2@ksx.vn",
+    "Ten_Dang_nhap": "bgd2",
+    "Mat_khau": "bgd2",
+    "Bo_phan": {
+      "Ten": "Ban Giám đốc",
+      "Ma_so": "BGD"
+    },
+    "Khu_vuc": null
+  },
+  {
+    "Ma_so": "QL_1",
+    "Ho_ten": "Quên Anh Đi",
+    "Gioi_tinh": "Nam",
+    "CMND": "079xxxx011",
+    "Ngay_sinh": "1990-04-20",
+    "Dien_thoai": "0904xxxx11",
+    "Mail": "ql.2@ksx.vn",
+    "Ten_Dang_nhap": "quanly1",
+    "Mat_khau": "quanly1",
+    "Bo_phan": {
+      "Ten": "Quản lý",
+      "Ma_so": "QL"
+    },
+    "Khu_vuc": null    
+  },
+  {
+    "Ma_so": "QL_2",
+    "Ho_ten": "Quên Em Đi",
+    "Gioi_tinh": "Nữ",
+    "CMND": "079xxxx012",
+    "Ngay_sinh": "1991-08-15",
+    "Dien_thoai": "0905xxxx12",
+    "Mail": "ql.2@ksx.vn",
+    "Ten_Dang_nhap": "quanly2",
+    "Mat_khau": "quanly2",
+    "Bo_phan": {
+      "Ten": "Quản lý",
+      "Ma_so": "QL"
+    },
+    "Khu_vuc": null   
+  },
+  {
+    "Ma_so": "QL_3",
+    "Ho_ten": "Quên Nhau Đi",
+    "Gioi_tinh": "Nữ",
+    "CMND": "079xxxx014",
+    "Ngay_sinh": "1995-06-12",
+    "Dien_thoai": "0905xxxx13",
+    "Mail": "ql.3@ksx.vn",
+    "Ten_Dang_nhap": "quanly3",
+    "Mat_khau": "quanly3",
+    "Bo_phan": {
+      "Ten": "Quản lý",
+      "Ma_so": "QL"
+    },
+    "Khu_vuc": null   
+  }
+]

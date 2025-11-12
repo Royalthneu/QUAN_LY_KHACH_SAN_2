@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1077",
+  "So_phong": "B-409",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-01-09",
+  "Ngay_tra": "2025-01-13",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Quốc Huy",
+      "CCCD": "030604691514",
+      "Dien_thoai": "0924038985"
+    },
+    {
+      "Ho_ten": "Phạm Văn Minh",
+      "CCCD": "030681835252",
+      "Dien_thoai": "0997376936"
+    },
+    {
+      "Ho_ten": "Nguyễn Văn Khoa",
+      "CCCD": "030170567559",
+      "Dien_thoai": "0974081950"
+    },
+    {
+      "Ho_ten": "Nguyễn Văn Hà",
+      "CCCD": "030697759954",
+      "Dien_thoai": "0916205092"
+    }
+  ]
+}

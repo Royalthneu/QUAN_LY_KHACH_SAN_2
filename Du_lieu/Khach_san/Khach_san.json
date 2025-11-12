@@ -1,0 +1,119 @@
+{
+  "Ma_so": "KSX001",
+  "Ten": "Khách sạn X",
+  "Dia_chi": "123 Đường Biển, TP. Biển",
+  "Dien_thoai": "028-1234-5678",
+  "Mail": "contact@khachsankx.vn",
+  "Danh_sach_Khu_vuc": [
+    {
+      "Ten": "Khu vực A",
+      "Ma_so": "KV_1"
+    },
+    {
+      "Ten": "Khu vực B",
+      "Ma_so": "KV_2"
+    },
+    {
+      "Ten": "Khu vực C",
+      "Ma_so": "KV_3"
+    }
+  ],
+  "Danh_sach_Tang": [
+    {
+      "Ten": "Tầng 1 Khu vực A",
+      "Ma_so": "T_A01",
+      "Khu_vuc": {
+        "Ten": "Khu vực A",
+        "Ma_so": "KV_1"
+      }
+    },
+    {
+      "Ten": "Tầng 2 Khu vực A",
+      "Ma_so": "T_A02",
+      "Khu_vuc": {
+        "Ten": "Khu vực A",
+        "Ma_so": "KV_1"
+      }
+    },
+    {
+      "Ten": "Tầng 3 Khu vực A",
+      "Ma_so": "T_A03",
+      "Khu_vuc": {
+        "Ten": "Khu vực A",
+        "Ma_so": "KV_1"
+      }
+    },
+    {
+      "Ten": "Tầng 1 Khu vực B",
+      "Ma_so": "T_B01",
+      "Khu_vuc": {
+        "Ten": "Khu vực B",
+        "Ma_so": "KV_2"
+      }
+    },
+    {
+      "Ten": "Tầng 2 Khu vực B",
+      "Ma_so": "T_B02",
+      "Khu_vuc": {
+        "Ten": "Khu vực B",
+        "Ma_so": "KV_2"
+      }
+    },
+    {
+      "Ten": "Tầng 3 Khu vực B",
+      "Ma_so": "T_B03",
+      "Khu_vuc": {
+        "Ten": "Khu vực B",
+        "Ma_so": "KV_2"
+      }
+    },
+    {
+      "Ten": "Tầng 4 Khu vực B",
+      "Ma_so": "T_B04",
+      "Khu_vuc": {
+        "Ten": "Khu vực B",
+        "Ma_so": "KV_2"
+      }
+    },
+    {
+      "Ten": "Tầng 1 Khu vực C",
+      "Ma_so": "T_C01",
+      "Khu_vuc": {
+        "Ten": "Khu vực C",
+        "Ma_so": "KV_3"
+      }
+    },
+    {
+      "Ten": "Tầng 2 Khu vực C",
+      "Ma_so": "T_C02",
+      "Khu_vuc": {
+        "Ten": "Khu vực C",
+        "Ma_so": "KV_3"
+      }
+    },
+    {
+      "Ten": "Tầng 3 Khu vực C",
+      "Ma_so": "T_C03",
+      "Khu_vuc": {
+        "Ten": "Khu vực C",
+        "Ma_so": "KV_3"
+      }
+    },
+    {
+      "Ten": "Tầng 4 Khu vực C",
+      "Ma_so": "T_C04",
+      "Khu_vuc": {
+        "Ten": "Khu vực C",
+        "Ma_so": "KV_3"
+      }
+    },
+    {
+      "Ten": "Tầng 5 Khu vực C",
+      "Ma_so": "T_C05",
+      "Khu_vuc": {
+        "Ten": "Khu vực C",
+        "Ma_so": "KV_3"
+      }
+    }
+  ]
+}

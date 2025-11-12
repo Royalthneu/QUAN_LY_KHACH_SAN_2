@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1198",
+  "So_phong": "B-409",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-04-30",
+  "Ngay_tra": "2025-05-01",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Võ Văn Trí",
+      "CCCD": "031424181561",
+      "Dien_thoai": "0893047324"
+    },
+    {
+      "Ho_ten": "Lê Văn Trang",
+      "CCCD": "031458457198",
+      "Dien_thoai": "0488134077"
+    },
+    {
+      "Ho_ten": "Trần Hữu Vân",
+      "CCCD": "030018403751",
+      "Dien_thoai": "0064518543"
+    },
+    {
+      "Ho_ten": "Võ Minh Quân",
+      "CCCD": "030132773890",
+      "Dien_thoai": "0326175372"
+    }
+  ]
+}

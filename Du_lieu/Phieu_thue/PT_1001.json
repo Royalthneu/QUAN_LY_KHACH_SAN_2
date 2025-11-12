@@ -1,0 +1,15 @@
+{
+  "Ma_phieu": "PT_1001",
+  "So_phong": "C-510",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-03-01",
+  "Ngay_tra": "2025-03-03",
+  "So_khach": 1,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Nguyễn Văn Khoa",
+      "CCCD": "030553757924",
+      "Dien_thoai": "0962922396"
+    }
+  ]
+}

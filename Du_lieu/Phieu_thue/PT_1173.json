@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1173",
+  "So_phong": "B-306",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-03-19",
+  "Ngay_tra": "2025-03-21",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Vũ Thanh Sơn",
+      "CCCD": "030990770661",
+      "Dien_thoai": "0201863351"
+    },
+    {
+      "Ho_ten": "Bùi Minh Trang",
+      "CCCD": "030555455222",
+      "Dien_thoai": "0287649990"
+    },
+    {
+      "Ho_ten": "Trần Đức Nam",
+      "CCCD": "030834613452",
+      "Dien_thoai": "0542097042"
+    }
+  ]
+}

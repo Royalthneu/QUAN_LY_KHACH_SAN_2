@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1386",
+  "So_phong": "C-505",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-10-20",
+  "Ngay_tra": "2025-10-23",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Quang Vân",
+      "CCCD": "031515751049",
+      "Dien_thoai": "0242260649"
+    },
+    {
+      "Ho_ten": "Đặng Gia Khánh",
+      "CCCD": "030722854141",
+      "Dien_thoai": "0051149085"
+    }
+  ]
+}

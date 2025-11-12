@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1205",
+  "So_phong": "C-310",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-04-15",
+  "Ngay_tra": "2025-04-19",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Trần Văn Khoa",
+      "CCCD": "031297399394",
+      "Dien_thoai": "0172593658"
+    },
+    {
+      "Ho_ten": "Trần Thị Hậu",
+      "CCCD": "031017611493",
+      "Dien_thoai": "0889897122"
+    },
+    {
+      "Ho_ten": "Phan Thị Long",
+      "CCCD": "030177298508",
+      "Dien_thoai": "0119310074"
+    },
+    {
+      "Ho_ten": "Bùi Gia Hà",
+      "CCCD": "031547295616",
+      "Dien_thoai": "0285760134"
+    }
+  ]
+}

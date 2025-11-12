@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1326",
+  "So_phong": "C-208",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-27",
+  "Ngay_tra": "2025-08-31",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Ngọc Khoa",
+      "CCCD": "030356770070",
+      "Dien_thoai": "0373697866"
+    },
+    {
+      "Ho_ten": "Võ Văn Trí",
+      "CCCD": "030962295160",
+      "Dien_thoai": "0074067190"
+    },
+    {
+      "Ho_ten": "Hoàng Thanh Thảo",
+      "CCCD": "031510620506",
+      "Dien_thoai": "0281966522"
+    }
+  ]
+}

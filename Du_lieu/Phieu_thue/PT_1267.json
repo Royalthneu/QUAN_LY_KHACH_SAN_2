@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1267",
+  "So_phong": "A-308",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-06-22",
+  "Ngay_tra": "2025-06-26",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Đức Hiếu",
+      "CCCD": "030473413531",
+      "Dien_thoai": "0072656040"
+    },
+    {
+      "Ho_ten": "Phạm Thị Nam",
+      "CCCD": "031499811451",
+      "Dien_thoai": "0663027597"
+    },
+    {
+      "Ho_ten": "Lê Thị An",
+      "CCCD": "031233078164",
+      "Dien_thoai": "0073058786"
+    }
+  ]
+}

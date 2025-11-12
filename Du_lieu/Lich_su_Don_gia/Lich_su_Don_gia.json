@@ -1,0 +1,443 @@
+[
+  {
+    "loai_id": 1,
+    "version": 1,
+    "gia": 400000,
+    "hieu_luc_tu": "2022-01-01",
+    "hieu_luc_den": "2022-03-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 1,
+    "gia": 550000,
+    "hieu_luc_tu": "2022-01-01",
+    "hieu_luc_den": "2022-03-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 1,
+    "gia": 800000,
+    "hieu_luc_tu": "2022-01-01",
+    "hieu_luc_den": "2022-03-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 2,
+    "gia": 412000,
+    "hieu_luc_tu": "2022-04-01",
+    "hieu_luc_den": "2022-06-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 2,
+    "gia": 567000,
+    "hieu_luc_tu": "2022-04-01",
+    "hieu_luc_den": "2022-06-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 2,
+    "gia": 824000,
+    "hieu_luc_tu": "2022-04-01",
+    "hieu_luc_den": "2022-06-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 3,
+    "gia": 420000,
+    "hieu_luc_tu": "2022-07-01",
+    "hieu_luc_den": "2022-09-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 3,
+    "gia": 578000,
+    "hieu_luc_tu": "2022-07-01",
+    "hieu_luc_den": "2022-09-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 3,
+    "gia": 840000,
+    "hieu_luc_tu": "2022-07-01",
+    "hieu_luc_den": "2022-09-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 4,
+    "gia": 412000,
+    "hieu_luc_tu": "2022-10-01",
+    "hieu_luc_den": "2022-12-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 4,
+    "gia": 566000,
+    "hieu_luc_tu": "2022-10-01",
+    "hieu_luc_den": "2022-12-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 4,
+    "gia": 823000,
+    "hieu_luc_tu": "2022-10-01",
+    "hieu_luc_den": "2022-12-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 5,
+    "gia": 416000,
+    "hieu_luc_tu": "2023-01-01",
+    "hieu_luc_den": "2023-03-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 5,
+    "gia": 572000,
+    "hieu_luc_tu": "2023-01-01",
+    "hieu_luc_den": "2023-03-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 5,
+    "gia": 831000,
+    "hieu_luc_tu": "2023-01-01",
+    "hieu_luc_den": "2023-03-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 6,
+    "gia": 428000,
+    "hieu_luc_tu": "2023-04-01",
+    "hieu_luc_den": "2023-06-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 6,
+    "gia": 589000,
+    "hieu_luc_tu": "2023-04-01",
+    "hieu_luc_den": "2023-06-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 6,
+    "gia": 856000,
+    "hieu_luc_tu": "2023-04-01",
+    "hieu_luc_den": "2023-06-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 7,
+    "gia": 437000,
+    "hieu_luc_tu": "2023-07-01",
+    "hieu_luc_den": "2023-09-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 7,
+    "gia": 601000,
+    "hieu_luc_tu": "2023-07-01",
+    "hieu_luc_den": "2023-09-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 7,
+    "gia": 873000,
+    "hieu_luc_tu": "2023-07-01",
+    "hieu_luc_den": "2023-09-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 8,
+    "gia": 428000,
+    "hieu_luc_tu": "2023-10-01",
+    "hieu_luc_den": "2023-12-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 8,
+    "gia": 589000,
+    "hieu_luc_tu": "2023-10-01",
+    "hieu_luc_den": "2023-12-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 8,
+    "gia": 856000,
+    "hieu_luc_tu": "2023-10-01",
+    "hieu_luc_den": "2023-12-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 9,
+    "gia": 432000,
+    "hieu_luc_tu": "2024-01-01",
+    "hieu_luc_den": "2024-03-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 9,
+    "gia": 595000,
+    "hieu_luc_tu": "2024-01-01",
+    "hieu_luc_den": "2024-03-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 9,
+    "gia": 865000,
+    "hieu_luc_tu": "2024-01-01",
+    "hieu_luc_den": "2024-03-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 10,
+    "gia": 445000,
+    "hieu_luc_tu": "2024-04-01",
+    "hieu_luc_den": "2024-06-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 10,
+    "gia": 613000,
+    "hieu_luc_tu": "2024-04-01",
+    "hieu_luc_den": "2024-06-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 10,
+    "gia": 891000,
+    "hieu_luc_tu": "2024-04-01",
+    "hieu_luc_den": "2024-06-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 11,
+    "gia": 454000,
+    "hieu_luc_tu": "2024-07-01",
+    "hieu_luc_den": "2024-09-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 11,
+    "gia": 625000,
+    "hieu_luc_tu": "2024-07-01",
+    "hieu_luc_den": "2024-09-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 11,
+    "gia": 909000,
+    "hieu_luc_tu": "2024-07-01",
+    "hieu_luc_den": "2024-09-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 12,
+    "gia": 445000,
+    "hieu_luc_tu": "2024-10-01",
+    "hieu_luc_den": "2024-12-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 12,
+    "gia": 613000,
+    "hieu_luc_tu": "2024-10-01",
+    "hieu_luc_den": "2024-12-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 12,
+    "gia": 891000,
+    "hieu_luc_tu": "2024-10-01",
+    "hieu_luc_den": "2024-12-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 13,
+    "gia": 449000,
+    "hieu_luc_tu": "2025-01-01",
+    "hieu_luc_den": "2025-03-31"
+  },
+  {
+    "loai_id": 2,
+    "version": 13,
+    "gia": 619000,
+    "hieu_luc_tu": "2025-01-01",
+    "hieu_luc_den": "2025-03-31"
+  },
+  {
+    "loai_id": 3,
+    "version": 13,
+    "gia": 900000,
+    "hieu_luc_tu": "2025-01-01",
+    "hieu_luc_den": "2025-03-31"
+  },
+  {
+    "loai_id": 1,
+    "version": 14,
+    "gia": 462000,
+    "hieu_luc_tu": "2025-04-01",
+    "hieu_luc_den": "2025-06-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 14,
+    "gia": 638000,
+    "hieu_luc_tu": "2025-04-01",
+    "hieu_luc_den": "2025-06-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 14,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-04-01",
+    "hieu_luc_den": "2025-06-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 15,
+    "gia": 471000,
+    "hieu_luc_tu": "2025-07-01",
+    "hieu_luc_den": "2025-09-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 15,
+    "gia": 651000,
+    "hieu_luc_tu": "2025-07-01",
+    "hieu_luc_den": "2025-09-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 15,
+    "gia": 946000,
+    "hieu_luc_tu": "2025-07-01",
+    "hieu_luc_den": "2025-09-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 17,
+    "gia": 123456,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 1,
+    "version": 18,
+    "gia": 466000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 1,
+    "version": 19,
+    "gia": 466000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 1,
+    "version": 20,
+    "gia": 466000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 1,
+    "version": 21,
+    "gia": 466769,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-12-30"
+  },
+  {
+    "loai_id": 2,
+    "version": 17,
+    "gia": 638000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 2,
+    "version": 18,
+    "gia": 638000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 2,
+    "version": 19,
+    "gia": 638888,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 2,
+    "version": 20,
+    "gia": 638999,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 2,
+    "version": 21,
+    "gia": 638777,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-12-30"
+  },
+  {
+    "loai_id": 3,
+    "version": 17,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 3,
+    "version": 18,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 3,
+    "version": 19,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 3,
+    "version": 20,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 3,
+    "version": 21,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-09-30",
+    "hieu_luc_den": "2025-12-30"
+  },
+  {
+    "loai_id": 1,
+    "version": 16,
+    "gia": 462000,
+    "hieu_luc_tu": "2025-10-01",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 2,
+    "version": 16,
+    "gia": 638000,
+    "hieu_luc_tu": "2025-10-01",
+    "hieu_luc_den": "2025-09-29"
+  },
+  {
+    "loai_id": 3,
+    "version": 16,
+    "gia": 927000,
+    "hieu_luc_tu": "2025-10-01",
+    "hieu_luc_den": "2025-09-29"
+  }
+]

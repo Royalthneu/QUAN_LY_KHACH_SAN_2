@@ -1,0 +1,15 @@
+{
+  "Ma_phieu": "PT_1234",
+  "So_phong": "C-301",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-05-10",
+  "Ngay_tra": "2025-05-14",
+  "So_khach": 1,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Hoàng Thị Sơn",
+      "CCCD": "030653214071",
+      "Dien_thoai": "0078986496"
+    }
+  ]
+}

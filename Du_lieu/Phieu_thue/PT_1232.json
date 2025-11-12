@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1232",
+  "So_phong": "C-210",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-05-13",
+  "Ngay_tra": "2025-05-14",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Gia Quân",
+      "CCCD": "031752260779",
+      "Dien_thoai": "0294528632"
+    },
+    {
+      "Ho_ten": "Phạm Gia Nam",
+      "CCCD": "030642750946",
+      "Dien_thoai": "0413283868"
+    },
+    {
+      "Ho_ten": "Bùi Gia Hải",
+      "CCCD": "031516236190",
+      "Dien_thoai": "0362265820"
+    },
+    {
+      "Ho_ten": "Đặng Thị Khánh",
+      "CCCD": "030877051754",
+      "Dien_thoai": "0969986766"
+    }
+  ]
+}

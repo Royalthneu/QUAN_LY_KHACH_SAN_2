@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1034",
+  "So_phong": "A-306",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-01-26",
+  "Ngay_tra": "2025-01-29",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Huỳnh Nhật Hà",
+      "CCCD": "030768117546",
+      "Dien_thoai": "0935649253"
+    },
+    {
+      "Ho_ten": "Võ Văn An",
+      "CCCD": "031013815118",
+      "Dien_thoai": "0926446717"
+    },
+    {
+      "Ho_ten": "Trần Văn Minh",
+      "CCCD": "031494733609",
+      "Dien_thoai": "0985084315"
+    }
+  ]
+}

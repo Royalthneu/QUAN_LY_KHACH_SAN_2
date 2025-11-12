@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1266",
+  "So_phong": "C-407",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-06-27",
+  "Ngay_tra": "2025-06-29",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Trần Minh Trí",
+      "CCCD": "030202522074",
+      "Dien_thoai": "0087257273"
+    },
+    {
+      "Ho_ten": "Phan Quang Bình",
+      "CCCD": "031266049703",
+      "Dien_thoai": "0526170728"
+    },
+    {
+      "Ho_ten": "Phạm Hữu Hải",
+      "CCCD": "030553946537",
+      "Dien_thoai": "0192970285"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1260",
+  "So_phong": "A-206",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-06-20",
+  "Ngay_tra": "2025-06-24",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Nguyễn Gia Nam",
+      "CCCD": "030134334299",
+      "Dien_thoai": "0000765183"
+    },
+    {
+      "Ho_ten": "Nguyễn Gia Lan",
+      "CCCD": "031630254612",
+      "Dien_thoai": "0720711689"
+    },
+    {
+      "Ho_ten": "Hoàng Thị Hùng",
+      "CCCD": "030543311056",
+      "Dien_thoai": "0027638480"
+    }
+  ]
+}

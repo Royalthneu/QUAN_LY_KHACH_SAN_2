@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1157",
+  "So_phong": "C-510",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-02-10",
+  "Ngay_tra": "2025-02-12",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Trần Thành Trí",
+      "CCCD": "030084283484",
+      "Dien_thoai": "0604513554"
+    },
+    {
+      "Ho_ten": "Phạm Thanh An",
+      "CCCD": "030261290244",
+      "Dien_thoai": "0765327686"
+    },
+    {
+      "Ho_ten": "Hoàng Văn Thắng",
+      "CCCD": "030480358823",
+      "Dien_thoai": "0815258425"
+    },
+    {
+      "Ho_ten": "Lê Ngọc Nhi",
+      "CCCD": "030294037838",
+      "Dien_thoai": "0663739782"
+    }
+  ]
+}

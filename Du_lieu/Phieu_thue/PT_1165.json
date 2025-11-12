@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1165",
+  "So_phong": "C-305",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-03-01",
+  "Ngay_tra": "2025-03-04",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Ngọc Khoa",
+      "CCCD": "030218802588",
+      "Dien_thoai": "0657468350"
+    },
+    {
+      "Ho_ten": "Võ Gia Quang",
+      "CCCD": "031860559787",
+      "Dien_thoai": "0356757071"
+    }
+  ]
+}

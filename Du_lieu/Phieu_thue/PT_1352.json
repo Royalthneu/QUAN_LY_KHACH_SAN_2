@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1352",
+  "So_phong": "C-205",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-09-11",
+  "Ngay_tra": "2025-09-15",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Ngọc Thu",
+      "CCCD": "031262170253",
+      "Dien_thoai": "0825950348"
+    },
+    {
+      "Ho_ten": "Đặng Thành Thảo",
+      "CCCD": "031481453412",
+      "Dien_thoai": "0524944281"
+    }
+  ]
+}

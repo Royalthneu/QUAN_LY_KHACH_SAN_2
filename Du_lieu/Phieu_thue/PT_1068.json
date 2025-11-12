@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1068",
+  "So_phong": "B-310",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-03-01",
+  "Ngay_tra": "2025-03-05",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Đức Huy",
+      "CCCD": "030815248744",
+      "Dien_thoai": "0958945785"
+    },
+    {
+      "Ho_ten": "Bùi Ngọc Huy",
+      "CCCD": "031574539880",
+      "Dien_thoai": "0980565085"
+    },
+    {
+      "Ho_ten": "Phan Nhật Huy",
+      "CCCD": "030890937856",
+      "Dien_thoai": "0923915575"
+    }
+  ]
+}

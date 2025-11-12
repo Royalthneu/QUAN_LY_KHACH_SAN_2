@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1212",
+  "So_phong": "A-209",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-04-04",
+  "Ngay_tra": "2025-04-08",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Gia Hùng",
+      "CCCD": "030921443060",
+      "Dien_thoai": "0030928938"
+    },
+    {
+      "Ho_ten": "Đặng Hữu Long",
+      "CCCD": "030424226853",
+      "Dien_thoai": "0811662002"
+    },
+    {
+      "Ho_ten": "Lê Hữu Trang",
+      "CCCD": "030779157594",
+      "Dien_thoai": "0261733487"
+    },
+    {
+      "Ho_ten": "Phan Minh Nhân",
+      "CCCD": "031931894426",
+      "Dien_thoai": "0046196614"
+    }
+  ]
+}

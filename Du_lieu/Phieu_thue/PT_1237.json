@@ -1,0 +1,30 @@
+{
+  "Ma_phieu": "PT_1237",
+  "So_phong": "B-109",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-05-07",
+  "Ngay_tra": "2025-05-08",
+  "So_khach": 4,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Văn Hậu",
+      "CCCD": "030238882305",
+      "Dien_thoai": "0283262213"
+    },
+    {
+      "Ho_ten": "Phạm Đức Thắng",
+      "CCCD": "030457692998",
+      "Dien_thoai": "0488635433"
+    },
+    {
+      "Ho_ten": "Trần Gia Ngân",
+      "CCCD": "031989304701",
+      "Dien_thoai": "0693670321"
+    },
+    {
+      "Ho_ten": "Phan Hữu Minh",
+      "CCCD": "030573543323",
+      "Dien_thoai": "0118414587"
+    }
+  ]
+}

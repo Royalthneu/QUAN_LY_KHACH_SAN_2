@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1433",
+  "So_phong": "B-307",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-12-12",
+  "Ngay_tra": "2025-12-16",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Vũ Quang Bình",
+      "CCCD": "030030572215",
+      "Dien_thoai": "0477331299"
+    },
+    {
+      "Ho_ten": "Bùi Đức Vân",
+      "CCCD": "031288104597",
+      "Dien_thoai": "0665846493"
+    },
+    {
+      "Ho_ten": "Hoàng Thanh Hương",
+      "CCCD": "030710961062",
+      "Dien_thoai": "0429307178"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1288",
+  "So_phong": "A-207",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-07-31",
+  "Ngay_tra": "2025-08-04",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Minh Hậu",
+      "CCCD": "030571623847",
+      "Dien_thoai": "0227972411"
+    },
+    {
+      "Ho_ten": "Lê Gia Long",
+      "CCCD": "031627729009",
+      "Dien_thoai": "0966217609"
+    },
+    {
+      "Ho_ten": "Đặng Ngọc Quân",
+      "CCCD": "030692562648",
+      "Dien_thoai": "0402943100"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1164",
+  "So_phong": "B-409",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-03-18",
+  "Ngay_tra": "2025-03-22",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Thành Vy",
+      "CCCD": "030240005570",
+      "Dien_thoai": "0520255445"
+    },
+    {
+      "Ho_ten": "Đặng Văn Thịnh",
+      "CCCD": "031850328249",
+      "Dien_thoai": "0481200205"
+    },
+    {
+      "Ho_ten": "Hoàng Đức Hạnh",
+      "CCCD": "030865181175",
+      "Dien_thoai": "0628362025"
+    }
+  ]
+}

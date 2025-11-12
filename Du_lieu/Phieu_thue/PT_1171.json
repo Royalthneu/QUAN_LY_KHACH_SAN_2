@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1171",
+  "So_phong": "C-505",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-03-14",
+  "Ngay_tra": "2025-03-15",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Hoàng Thành Trang",
+      "CCCD": "031491116899",
+      "Dien_thoai": "0280278197"
+    },
+    {
+      "Ho_ten": "Nguyễn Thành Hải",
+      "CCCD": "031449058760",
+      "Dien_thoai": "0990954217"
+    }
+  ]
+}

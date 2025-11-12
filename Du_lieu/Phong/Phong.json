@@ -1,0 +1,722 @@
+[
+  {
+    "So_phong": "A-101",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-102",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-103",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-104",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-105",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-106",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-107",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-108",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-109",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "A-110",
+    "Khu_vuc": "A",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "A-201",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-202",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-203",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-204",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-205",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-206",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-207",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-208",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-209",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "A-210",
+    "Khu_vuc": "A",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "A-301",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-302",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-303",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-304",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-305",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "A-306",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-307",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-308",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "A-309",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "A-310",
+    "Khu_vuc": "A",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-101",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-102",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-103",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-104",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-105",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-106",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-107",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-108",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-109",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-110",
+    "Khu_vuc": "B",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-201",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-202",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-203",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-204",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-205",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-206",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-207",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-208",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-209",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-210",
+    "Khu_vuc": "B",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-301",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-302",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-303",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-304",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-305",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-306",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-307",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-308",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-309",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-310",
+    "Khu_vuc": "B",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-401",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-402",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-403",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-404",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-405",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "B-406",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-407",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-408",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "B-409",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "B-410",
+    "Khu_vuc": "B",
+    "Tang": 4,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-101",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-102",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-103",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-104",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-105",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-106",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-107",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-108",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-109",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-110",
+    "Khu_vuc": "C",
+    "Tang": 1,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-201",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-202",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-203",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-204",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-205",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-206",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-207",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-208",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-209",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-210",
+    "Khu_vuc": "C",
+    "Tang": 2,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-301",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-302",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-303",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-304",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-305",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-306",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-307",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-308",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-309",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-310",
+    "Khu_vuc": "C",
+    "Tang": 3,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-401",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-402",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-403",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-404",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-405",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-406",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-407",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-408",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-409",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-410",
+    "Khu_vuc": "C",
+    "Tang": 4,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-501",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-502",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-503",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-504",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-505",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_1"
+  },
+  {
+    "So_phong": "C-506",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-507",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-508",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_2"
+  },
+  {
+    "So_phong": "C-509",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_3"
+  },
+  {
+    "So_phong": "C-510",
+    "Khu_vuc": "C",
+    "Tang": 5,
+    "Loai_phong": "LP_3"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1336",
+  "So_phong": "C-506",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-13",
+  "Ngay_tra": "2025-08-16",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Vũ Ngọc Nhi",
+      "CCCD": "031349141811",
+      "Dien_thoai": "0871085243"
+    },
+    {
+      "Ho_ten": "Võ Minh Sơn",
+      "CCCD": "030518173954",
+      "Dien_thoai": "0136067381"
+    },
+    {
+      "Ho_ten": "Hoàng Đức Tú",
+      "CCCD": "030697782104",
+      "Dien_thoai": "0672387314"
+    }
+  ]
+}

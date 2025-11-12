@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1299",
+  "So_phong": "C-510",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-07-19",
+  "Ngay_tra": "2025-07-20",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phạm Hữu Hà",
+      "CCCD": "030061322057",
+      "Dien_thoai": "0103934560"
+    },
+    {
+      "Ho_ten": "Hoàng Hữu Nhân",
+      "CCCD": "031461834029",
+      "Dien_thoai": "0348324691"
+    },
+    {
+      "Ho_ten": "Phạm Gia Vân",
+      "CCCD": "031872249934",
+      "Dien_thoai": "0684377469"
+    }
+  ]
+}

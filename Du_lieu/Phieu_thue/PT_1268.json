@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1268",
+  "So_phong": "A-110",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-06-18",
+  "Ngay_tra": "2025-06-22",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Ngọc My",
+      "CCCD": "030212513985",
+      "Dien_thoai": "0462504547"
+    },
+    {
+      "Ho_ten": "Phan Ngọc Ngân",
+      "CCCD": "030264821287",
+      "Dien_thoai": "0447645219"
+    },
+    {
+      "Ho_ten": "Đặng Quang Long",
+      "CCCD": "030806938451",
+      "Dien_thoai": "0655426546"
+    }
+  ]
+}

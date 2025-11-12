@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1401",
+  "So_phong": "B-301",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-11-28",
+  "Ngay_tra": "2025-11-30",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Bùi Văn Trang",
+      "CCCD": "030853411393",
+      "Dien_thoai": "0413076782"
+    },
+    {
+      "Ho_ten": "Phan Quang Tú",
+      "CCCD": "031307741357",
+      "Dien_thoai": "0691639651"
+    }
+  ]
+}

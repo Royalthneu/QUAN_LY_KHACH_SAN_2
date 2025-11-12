@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1151",
+  "So_phong": "C-104",
+  "Loai_phong": "Standard",
+  "Ngay_nhan": "2025-02-27",
+  "Ngay_tra": "2025-03-03",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Gia Thắng",
+      "CCCD": "030826603841",
+      "Dien_thoai": "0891658921"
+    },
+    {
+      "Ho_ten": "Vũ Văn Giang",
+      "CCCD": "031014331659",
+      "Dien_thoai": "0581905541"
+    }
+  ]
+}

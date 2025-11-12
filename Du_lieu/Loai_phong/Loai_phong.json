@@ -1,0 +1,23 @@
+[
+  {
+    "Ma_so": "LP_1",
+    "Ten": "Standard",
+    "Don_gia": 600000,
+    "Suc_chua": 2,
+    "Tien_nghi": "TV, WiFi"
+  },
+  {
+    "Ma_so": "LP_2",
+    "Ten": "Deluxe",
+    "Don_gia": 900000,
+    "Suc_chua": 3,
+    "Tien_nghi": "TV, WiFi, Minibar"
+  },
+  {
+    "Ma_so": "LP_3",
+    "Ten": "Suite",
+    "Don_gia": 1500000,
+    "Suc_chua": 4,
+    "Tien_nghi": "Phòng khách, Bồn tắm"
+  }
+]

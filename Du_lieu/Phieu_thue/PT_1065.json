@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1065",
+  "So_phong": "B-307",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-02-26",
+  "Ngay_tra": "2025-03-03",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Nguyễn Quốc Châu",
+      "CCCD": "031687884836",
+      "Dien_thoai": "0919135715"
+    },
+    {
+      "Ho_ten": "Bùi Quốc Sơn",
+      "CCCD": "030413656189",
+      "Dien_thoai": "0996318797"
+    },
+    {
+      "Ho_ten": "Hoàng Hải Hà",
+      "CCCD": "031650978921",
+      "Dien_thoai": "0914345484"
+    }
+  ]
+}

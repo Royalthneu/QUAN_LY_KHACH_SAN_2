@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1227",
+  "So_phong": "B-310",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-05-19",
+  "Ngay_tra": "2025-05-20",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Đặng Văn Trang",
+      "CCCD": "030213072649",
+      "Dien_thoai": "0310405067"
+    },
+    {
+      "Ho_ten": "Phan Văn Hân",
+      "CCCD": "031744808747",
+      "Dien_thoai": "0814696751"
+    },
+    {
+      "Ho_ten": "Phạm Văn Tuấn",
+      "CCCD": "030281959251",
+      "Dien_thoai": "0869427179"
+    }
+  ]
+}

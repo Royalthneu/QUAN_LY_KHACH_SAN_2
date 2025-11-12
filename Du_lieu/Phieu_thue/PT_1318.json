@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1318",
+  "So_phong": "A-307",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-08-18",
+  "Ngay_tra": "2025-08-20",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Lê Thanh Long",
+      "CCCD": "031643466794",
+      "Dien_thoai": "0641219887"
+    },
+    {
+      "Ho_ten": "Phạm Ngọc Trí",
+      "CCCD": "031206040668",
+      "Dien_thoai": "0754913484"
+    },
+    {
+      "Ho_ten": "Đặng Thị Hân",
+      "CCCD": "030697240723",
+      "Dien_thoai": "0740974116"
+    }
+  ]
+}

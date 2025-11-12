@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1253",
+  "So_phong": "B-110",
+  "Loai_phong": "Suite",
+  "Ngay_nhan": "2025-06-02",
+  "Ngay_tra": "2025-06-04",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Bùi Thanh Hùng",
+      "CCCD": "031630931951",
+      "Dien_thoai": "0489223917"
+    },
+    {
+      "Ho_ten": "Nguyễn Hữu Khánh",
+      "CCCD": "031842163170",
+      "Dien_thoai": "0095231258"
+    },
+    {
+      "Ho_ten": "Vũ Thị Trang",
+      "CCCD": "031462296432",
+      "Dien_thoai": "0696188091"
+    }
+  ]
+}

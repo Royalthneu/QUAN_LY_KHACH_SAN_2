@@ -1,0 +1,25 @@
+{
+  "Ma_phieu": "PT_1411",
+  "So_phong": "A-207",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-11-15",
+  "Ngay_tra": "2025-11-19",
+  "So_khach": 3,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Ngọc Hải",
+      "CCCD": "030998188220",
+      "Dien_thoai": "0611658388"
+    },
+    {
+      "Ho_ten": "Võ Thị Hương",
+      "CCCD": "031381028752",
+      "Dien_thoai": "0753885621"
+    },
+    {
+      "Ho_ten": "Phạm Quang Hạnh",
+      "CCCD": "030583291851",
+      "Dien_thoai": "0225344163"
+    }
+  ]
+}

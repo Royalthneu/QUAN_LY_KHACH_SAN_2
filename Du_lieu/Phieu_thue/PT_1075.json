@@ -1,0 +1,20 @@
+{
+  "Ma_phieu": "PT_1075",
+  "So_phong": "B-407",
+  "Loai_phong": "Deluxe",
+  "Ngay_nhan": "2025-01-07",
+  "Ngay_tra": "2025-01-10",
+  "So_khach": 2,
+  "Danh_sach_khach": [
+    {
+      "Ho_ten": "Phan Thuỳ Huy",
+      "CCCD": "031040776460",
+      "Dien_thoai": "0935373845"
+    },
+    {
+      "Ho_ten": "Lê Hữu Tuấn",
+      "CCCD": "031361008917",
+      "Dien_thoai": "0927523099"
+    }
+  ]
+}
