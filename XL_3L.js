@@ -955,12 +955,12 @@ class XL_3L {
             <div class="col-md-3">
               <label class="form-label">Từ ngày</label>
               <input id="Th_Tu_ngay" name="Tu_ngay" type="date" class="form-control" required
-                     value="${fmt(Hom_nay)}">
+                     value="${val('Tu_ngay', fmt(Hom_nay))}">
             </div>
             <div class="col-md-3">
               <label class="form-label">Đến ngày</label>
               <input id="Th_Den_ngay" name="Den_ngay" type="date" class="form-control" required
-                     value="${fmt(Ngay_sau)}">
+                     value="${val('Den_ngay', fmt(Ngay_sau))}">
             </div>
   
             <!-- Chọn phòng: chỉ 1 combobox phòng trống -->
