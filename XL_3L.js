@@ -514,28 +514,32 @@ class XL_3L {
 
   // ---Lập báo cáo và thay đổi Đơn giá hiện tại ---
   Lap_Bao_cao_Thu_Thang(Nam, Thang) {
-    const ds = this.Doc_Danh_sach_Phieu_thue();
-    const DM = this.Doc_Danh_muc_Loai_phong();
-    const Gia = Object.fromEntries(DM.map((x) => [x.Ten, +x.Don_gia]));
-    const Bang = {};
-    let Tong = 0;
-    for (const pt of ds)
-    {
-      const d = new Date(pt.Ngay_nhan);
-      if (d.getFullYear() === +Nam && d.getMonth() + 1 === +Thang)
-      {
-        const so_ngay = this.Tinh_So_ngay(pt.Ngay_nhan, pt.Ngay_tra);
-        const t = so_ngay * (Gia[pt.Loai_phong] || 0);
-        Bang[pt.Loai_phong] = (Bang[pt.Loai_phong] || 0) + t;
-        Tong += t;
+      // Dùng đơn giá theo lịch sử cho từng ngày lưu trú
+      const ds = this.Doc_Danh_sach_Phieu_thue() || [];
+      const Bang = {};
+      let Tong = 0;
+  
+      for (const pt of ds) {
+        if (!pt.Ngay_nhan || !pt.Ngay_tra) continue;
+  
+        const d = new Date(pt.Ngay_nhan);
+        if (d.getFullYear() !== +Nam || d.getMonth() + 1 !== +Thang) continue;
+  
+        const tien = this.Tinh_Tien_Phong_Theo_Don_Gia_Lich_su(pt);
+        if (!tien) continue;
+  
+        const key = pt.Loai_phong || "Khác";
+        Bang[key] = (Bang[key] || 0) + tien;
+        Tong += tien;
       }
-    }
-    const Chi_tiet = Object.keys(Bang).map((k) => ({
-      Loai_phong: k,
-      Thu: Bang[k],
-      Ty_le: Tong ? +((Bang[k] * 100) / Tong).toFixed(2) : 0,
-    }));
-    return { Nam, Thang, Tong_thu: Tong, Chi_tiet };
+  
+      const Chi_tiet = Object.keys(Bang).sort().map((k) => ({
+        Loai_phong: k,
+        Thu: Bang[k],
+        Ty_le: Tong ? +((Bang[k] * 100) / Tong).toFixed(2) : 0,
+      }));
+  
+      return { Nam, Thang, Tong_thu: Tong, Chi_tiet };
   }
   Lap_Bao_cao_Thu_Nam(Nam) {
     const Chi_tiet = [];
@@ -656,21 +660,32 @@ class XL_3L {
     return this.Doc_Lich_su_Don_gia(hom_nay, this.Cong_Ngay(hom_nay, 1));
   }
   Don_gia_Theo_Ngay(loaiId, ngayISO) {
-    const ds = this.Doc_Lich_su_Don_gia().filter((x) => +x.loai_id === +loaiId);
-    if (!ds.length)
-    {
-      const lo = (this.Doc_Danh_muc_Loai_phong() || []).find(
-        (l) => +l.id === +loaiId
+      const ds = this.Doc_Lich_su_Don_gia().filter((x) => +x.loai_id === +loaiId);
+      if (!ds.length) {
+        // Không có lịch sử thì rơi về Đơn giá hiện tại trong Loai_phong.json
+        const dsLoai = this.Doc_Danh_muc_Loai_phong() || [];
+        const lo = dsLoai.find((l) => {
+          const ma = String(l.Ma_so || "").toUpperCase();
+          const m = ma.match(/^LP[\s_\-]?(\d+)$/);
+          if (m && +m[1] === +loaiId) return true;
+  
+          const t = String(l.Ten || "").toUpperCase();
+          if (loaiId === 1 && t.includes("STANDARD")) return true;
+          if (loaiId === 2 && t.includes("DELUXE")) return true;
+          if (loaiId === 3 && t.includes("SUITE"))  return true;
+  
+          return false;
+        });
+        return lo ? +lo.Don_gia || 0 : 0;
+      }
+  
+      const rec = ds.find(
+        (x) =>
+          x.hieu_luc_tu <= ngayISO &&
+          (!x.hieu_luc_den || ngayISO <= x.hieu_luc_den)
       );
-      return lo ? +lo.gia || 0 : 0;
-    }
-    const rec = ds.find(
-      (x) =>
-        x.hieu_luc_tu <= ngayISO &&
-        (!x.hieu_luc_den || ngayISO <= x.hieu_luc_den)
-    );
-    return rec ? +rec.gia || 0 : 0;
-  }
+      return rec ? +rec.gia || 0 : 0;
+  }  
   Don_gia_Theo_Quy(y, q) {
     const { tu, den } = this.Tu_Ngay_Bat_dau_den_Ket_thuc_Quy(y, q);
     const ds = this.Doc_Lich_su_Don_gia();
